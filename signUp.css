@@ -1,0 +1,65 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(LeFleur\ rack\ cropped.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 550px;
+}
+h1{
+    font-size: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: black;
+}
+/*.Signsection{
+    padding-top: 30px;
+}*/
+button{
+    border-radius: 20px;
+    padding-inline: 30px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.facebook{
+    background-color: rgba(37, 37, 212, 0.822);
+    color: white;
+    border-color:rgba(37, 37, 212, 0.822) ;
+}
+.google{
+    color: rgb(78, 78, 78);
+    background-color: white;
+}
+
+/*.signUpemail{
+    background-color: grey;
+    align-content: center;
+    align-self: center;
+    padding: 20px;
+    border-width: 1px;
+    border-style: solid;
+    background-size: 20px;
+}
+*/
+.Alreadyacc{
+    font-size: smaller;
+    text-decoration-color: white;
+}
+
+.signupbutton{
+    text-decoration: none;
+    color: black;
+}
+
+.Alreadyacc{
+    font-size: smaller;
+    color: white;
+}
+
+.guestLogin{
+    font-size: smaller;
+    color: black;
+}
+
+.loginb{
+    color: black;
+}
